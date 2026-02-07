@@ -44,6 +44,15 @@ Pandas
 Joblib
 
 Streamlit
+## Live App 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6734d426-5584-4f44-80f2-3c25c15e7aef" width="250">
+</p>
+Click here to try the app:
+
+👉 [Employee Attrition Predictor](https://employee-attrition-ml-o9bxytzdg5rudteavhitkg.streamlit.app/)
+
+
 📊 Prediction Inputs
 
 The app takes:
